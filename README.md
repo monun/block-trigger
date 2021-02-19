@@ -1,8 +1,4 @@
-# Paper plugin sample
-[![Build Status](https://travis-ci.com/monun/tap-sample-plugin.svg?branch=master)](https://travis-ci.org/monun/tap-sample-plugin)
-## Environment
-* Kotlin
-* Tap
-* Kommand
-* Unit test
-* Travis CI
+# Block Trigger
+[![Build Status](https://travis-ci.com/monun/block-trigger.svg?branch=master)](https://travis-ci.org/monun/block-trigger)
+
+특정 블럭에 대한 이벤트를 트리거로 명령 실행
